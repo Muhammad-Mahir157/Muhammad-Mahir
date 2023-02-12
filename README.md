@@ -66,6 +66,15 @@
 <br/>
 
 <div align="center">
+<a href="https://github.com/Muhammad-Mahir157/Automation-using-Codecept-and-Jest.git" target="_blank">Automation using Codecept and Jest</a>
+</div>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Mahir157&repo=Automation-using-Codecept-and-Jest"/>
+</p>
+
+<br/>
+
+<div align="center">
 <a href="https://github.com/Muhammad-Mahir157/Search-Engine.git" target="_blank">Search Engine</a>
 </div>
 <p align="center">
