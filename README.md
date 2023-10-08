@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> Muhammad Mahir</a></h1>
-<h3 align="center"> Full-stack developer with a passion for problem-solving and delivering high-quality code. Proficient in Python and JavaScript with a strong understanding of web development.</h3>
+<h3 align="center"> Full-stack developer passionate about problem-solving and delivering high-quality code. Proficient in Typescript, JavaScript, C#, and Python with a strong understanding of web development.</h3>
 
 
 <a target="_blank" align="center">
@@ -7,11 +7,11 @@
 </a>
 
 
-- 🌱 I’m currently Working a Full Stack Developer(MERN STACK)
+- 🌱 I’m currently Working as a Full Stack Developer (.NET Core & Angular)
 
-- 🤝 I’m available to collaborate on exciting research and 
+- 🤝 I’m available to collaborate on exciting research projects
 
-- 🌱 I’m currently pursuing Meta Front End Development Certification from Coursesra
+- 🌱 I’m currently pursuing Front End Development Certification from Front End Masters
 
 - 📝 I often write articles on [https://medium.com/@hmmahir2001](https://medium.com/@hmmahir2001)
 
@@ -48,7 +48,7 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/Muhammad-Mahir157/Moody-Eats-App.git" target="_blank">Moody Eats Android App</a>
+<a href="https://github.com/Muhammad-Mahir157/Moody-Eats-Android-App.git" target="_blank">Moody Eats Android App</a>
 </div>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Mahir157&repo=Moody-Eats-App"/>
