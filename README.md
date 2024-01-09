@@ -51,7 +51,7 @@
 <a href="https://github.com/Muhammad-Mahir157/Moody-Eats-Android-App.git" target="_blank">Moody Eats Android App</a>
 </div>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Mahir157&repo=Moody-Eats-App"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Mahir157&repo=Moody-Eats-Android-App"/>
 </p>
 
 <br/>
