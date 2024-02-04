@@ -25,8 +25,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Mahir157&layout=compact"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
-
 ***
 
 <div align="center">
