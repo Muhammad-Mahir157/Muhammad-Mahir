@@ -21,7 +21,7 @@
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Mahir157&show_icons=true"/>
+[//]: <> (<img align="left" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Mahir157&show_icons=true"/>)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Mahir157&layout=compact"/>
 
