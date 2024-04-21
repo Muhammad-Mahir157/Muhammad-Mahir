@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate on **Climate Tech Projects**
 
-- 🌱 I’m currently learning **Next.js, NestJS, and Cloud Computing (AWS))**
+- 🌱 I’m currently learning **Next.js, NestJS, and Cloud Computing (AWS and Microsoft Azure)**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/muhammad_mahir](https://linktr.ee/muhammad_mahir)
+- 👨‍💻 All of my links are available at [https://linktr.ee/muhammad_mahir](https://linktr.ee/muhammad_mahir)
 
 - 📝 I often write articles on [https://medium.com/@hmmahir2001](https://medium.com/@hmmahir2001)
 
