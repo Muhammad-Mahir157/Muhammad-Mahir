@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Muhammad Mahir</a> 👋</h1>
-<h3 align="center">Passionate Full Stack Developer | TypeScript, JavaScript, C# | Web Development & AI Enthusiast</h3>
+<h3 align="center">Passionate Full Stack Developer | Golang, JavaScript | Web Development & AI Enthusiast</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -8,11 +8,11 @@
 </a>
 
 
-- 🔭 I’m currently working on **Enterprise applications as a Full Stack Developer (.NET Core & Angular)**
+- 🔭 I’m currently working on **Enterprise applications as a Full Stack Developer (GoLang & React)**
 
 - 👯 I’m looking to collaborate on **Climate Tech Projects**
 
-- 🌱 I’m currently learning **Next.js, NestJS, and Cloud Computing (AWS and Microsoft Azure)**
+- 🌱 I’m currently learning **Next.js, GoLang, and AWS**
 
 - 👨‍💻 All of my links are available at [https://linktr.ee/muhammad_mahir](https://linktr.ee/muhammad_mahir)
 
@@ -29,8 +29,6 @@
 <br/>
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Muhammad-Mahir157"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Mahir157&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Muhammad-Mahir157's GitHub stats" /></a>
 
 <a href="http://www.github.com/Muhammad-Mahir157"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Mahir157&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
